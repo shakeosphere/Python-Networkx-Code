@@ -6,7 +6,7 @@ Python program, graph_analytics.py, generates reports containing various
 statistics from this data.
 
 To run the program, make sure you are inside the directory containing
-graph_analytics.py, and type the command:
+graph_analytics.py and db_shakeosphere.py and type the command:
 python graph_analytics.py [time]
 Where you replace [time] with either a single year (e.g., 1600) or a
 dash-delimited time interval (e.g., 1600-1610).  The program will then
